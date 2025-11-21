@@ -9,7 +9,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://my-port-folio-2-0.vercel.app/).
 
 ---
 
